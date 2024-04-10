@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "hellof"
+echo "date"
