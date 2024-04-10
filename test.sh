@@ -1,4 +1,3 @@
 #!/bin/sh
 
-echo $date 
-echo "111111"
+echo  "333333"
