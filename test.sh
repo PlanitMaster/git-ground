@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo  "333333"
+echo"adfasf"
