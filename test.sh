@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "www11111ate"
+echo "1111ate"
