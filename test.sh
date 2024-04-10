@@ -1,4 +1,4 @@
 #!/bin/sh
 
 echo $date 
-echo "hello"
+echo "111111"
