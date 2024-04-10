@@ -1,4 +1,4 @@
 #!/bin/sh
 
 echo $date 
-echo `date` 
+echo "hello"
