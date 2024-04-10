@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "ate"
+echo "1ate"
